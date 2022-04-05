@@ -24,12 +24,18 @@ oferecida no primeiro semestre de 2022, na Unicamp, sob supervisão da Profa. Dr
 > Nesta seção, identifique claramente essas etapas, estimando o tempo que o seu grupo gastará em cada uma delas.
 > Por exemplo:
 > * Etapa 1 (1 semana): Estudo de técnicas de segmentação de imagens
+> 
 >     Descrição do que será realizado na Etapa 1.
 > * Etapa 2 (1 semana): Obtenção de dados pública de imagens de laranjas
+> 
 >     Descrição do que será realizado na Etapa 2.
+>     
 > * Etapa 3 (2 semanas): Codificação e Testes.
+> 
 >     Descrição do que será realizado na Etapa 3.
+>     
 > e assim por diante.
+> 
 > Inclua no seu plano de trabalho a etapa de escrita de relatório final do projeto.
 
 ## Referências Bibliográficas
