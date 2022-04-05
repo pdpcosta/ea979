@@ -8,8 +8,7 @@ Na primeira entrega do projeto, seu grupo deverá:
 
  - Criar um repositório GitHub ou GitLab **público** que será usado ao longo de todo o projeto;
  - Editar arquivo README.md do repositório com a proposta inicial do projeto, segundo modelo fornecido a seguir;
- - Criar uma tag de release no repositório identificada como 2022.1_EA979A_E1;
- - Disponibilizar vídeo de duração máxima de 5 minutos de apresentação da proposta do projeto. Não é necessário que todos os membros da equipe apareçam ou participem do vídeo. Sugere-se que o link para o vídeo seja disponibilizado no README.md do repositório.
+ - Criar uma tag de release no repositório identificada como 2022.1_EA979A_E1.
 
 Após a primeira entrega, será realizada uma arguição da proposta de projeto em horário de aula. 
 É obrigatória a participação de todos os membros durante o momento da arguição da proposta. 
